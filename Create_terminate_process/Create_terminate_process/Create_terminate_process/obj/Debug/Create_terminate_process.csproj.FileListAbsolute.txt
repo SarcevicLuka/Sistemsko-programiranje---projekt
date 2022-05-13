@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\bin\Debug\Create_terminate_process.exe.config
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\bin\Debug\Create_terminate_process.exe
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\bin\Debug\Create_terminate_process.pdb
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.Form1.resources
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.exe
+C:\Users\Korisnik\source\repos\Create_terminate_process\Create_terminate_process\obj\Debug\Create_terminate_process.pdb
